@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Sparkling Diamonds
+## Speak volumes about the quality
